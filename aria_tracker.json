@@ -1,0 +1,1163 @@
+{
+  "sessions": [
+    {
+      "date": "2026-04-16",
+      "start_time": "2026-04-16T11:30:59.904080",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-16",
+      "start_time": "2026-04-16T11:38:47.936457",
+      "tasks": [],
+      "end_time": "2026-04-16T11:39:14.375278"
+    },
+    {
+      "date": "2026-04-16",
+      "start_time": "2026-04-16T11:44:02.655373",
+      "tasks": [],
+      "end_time": "2026-04-16T11:44:48.758334"
+    },
+    {
+      "date": "2026-04-16",
+      "start_time": "2026-04-16T11:46:38.279825",
+      "tasks": [],
+      "end_time": "2026-04-16T11:47:05.608749"
+    },
+    {
+      "date": "2026-04-16",
+      "start_time": "2026-04-16T11:49:12.627494",
+      "tasks": [],
+      "end_time": "2026-04-16T11:49:22.063335"
+    },
+    {
+      "date": "2026-04-16",
+      "start_time": "2026-04-16T11:59:25.417793",
+      "tasks": [],
+      "end_time": "2026-04-16T12:00:51.482409"
+    },
+    {
+      "date": "2026-04-16",
+      "start_time": "2026-04-16T12:43:34.310769",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-16",
+      "start_time": "2026-04-16T12:45:54.007182",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-16",
+      "start_time": "2026-04-16T12:49:52.527953",
+      "tasks": [],
+      "end_time": "2026-04-16T12:49:56.776932"
+    },
+    {
+      "date": "2026-04-16",
+      "start_time": "2026-04-16T12:55:22.282342",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-16",
+      "start_time": "2026-04-16T13:04:25.919218",
+      "tasks": [],
+      "end_time": "2026-04-16T13:04:34.588365"
+    },
+    {
+      "date": "2026-04-16",
+      "start_time": "2026-04-16T13:06:30.727149",
+      "tasks": [],
+      "end_time": "2026-04-16T13:06:45.878944"
+    },
+    {
+      "date": "2026-04-16",
+      "start_time": "2026-04-16T13:08:12.271311",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-16",
+      "start_time": "2026-04-16T13:13:09.880932",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-16",
+      "start_time": "2026-04-16T13:16:35.931065",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-16",
+      "start_time": "2026-04-16T13:21:01.058926",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-16",
+      "start_time": "2026-04-16T13:22:45.613135",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-16",
+      "start_time": "2026-04-16T13:24:57.045568",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-16",
+      "start_time": "2026-04-16T13:29:00.626862",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-16",
+      "start_time": "2026-04-16T13:39:18.791943",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-16",
+      "start_time": "2026-04-16T15:13:07.213444",
+      "tasks": [],
+      "end_time": "2026-04-16T15:16:26.780349"
+    },
+    {
+      "date": "2026-04-16",
+      "start_time": "2026-04-16T22:28:58.754094",
+      "tasks": [],
+      "end_time": "2026-04-16T22:29:51.525705"
+    },
+    {
+      "date": "2026-04-16",
+      "start_time": "2026-04-16T22:33:46.563424",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-16",
+      "start_time": "2026-04-16T22:37:49.181005",
+      "tasks": [
+        "open_app: {'app': 'chrome'}"
+      ]
+    },
+    {
+      "date": "2026-04-16",
+      "start_time": "2026-04-16T22:50:23.616260",
+      "tasks": [
+        "open_app: {'app': 'youtube'}",
+        "open_app: {'app': 'chrome'}",
+        "open_app: {'app': 'whatsapp'}"
+      ]
+    },
+    {
+      "date": "2026-04-16",
+      "start_time": "2026-04-16T22:54:35.261864",
+      "tasks": [
+        "open_app: {'app': 'youtube'}",
+        "open_app: {'app': 'whatsapp'}",
+        "open_app: {'app': 'notepad'}",
+        "open_app: {'app': 'excel'}"
+      ],
+      "end_time": "2026-04-16T22:56:18.647991"
+    },
+    {
+      "date": "2026-04-16",
+      "start_time": "2026-04-16T22:56:48.321371",
+      "tasks": [
+        "open_app: {'app': 'youtube'}",
+        "open_app: {'app': 'notepad'}"
+      ],
+      "end_time": "2026-04-16T22:57:58.938813"
+    },
+    {
+      "date": "2026-04-16",
+      "start_time": "2026-04-16T23:04:53.858444",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-16",
+      "start_time": "2026-04-16T23:05:50.232220",
+      "tasks": [
+        "open_app: {'app': 'notepad'}",
+        "open_app: {'app': 'notepad'}"
+      ],
+      "end_time": "2026-04-16T23:06:31.299676"
+    },
+    {
+      "date": "2026-04-16",
+      "start_time": "2026-04-16T23:10:02.819210",
+      "tasks": [
+        "open_app: {'app': 'notepad'}"
+      ]
+    },
+    {
+      "date": "2026-04-16",
+      "start_time": "2026-04-16T23:14:11.742568",
+      "tasks": [
+        "open_app: {'app': 'notepad'}"
+      ]
+    },
+    {
+      "date": "2026-04-16",
+      "start_time": "2026-04-16T23:16:28.084055",
+      "tasks": [
+        "open_app: {'app': 'notepad'}"
+      ],
+      "end_time": "2026-04-16T23:17:45.490768"
+    },
+    {
+      "date": "2026-04-16",
+      "start_time": "2026-04-16T23:17:56.609203",
+      "tasks": [],
+      "end_time": "2026-04-16T23:18:39.011254"
+    },
+    {
+      "date": "2026-04-16",
+      "start_time": "2026-04-16T23:22:29.513975",
+      "tasks": [],
+      "end_time": "2026-04-16T23:23:06.566397"
+    },
+    {
+      "date": "2026-04-16",
+      "start_time": "2026-04-16T23:24:10.967522",
+      "tasks": [],
+      "end_time": "2026-04-16T23:25:01.974345"
+    },
+    {
+      "date": "2026-04-16",
+      "start_time": "2026-04-16T23:25:13.733232",
+      "tasks": [
+        "open_app: {'app': 'excel'}",
+        "open_app: {'app': 'explorer'}",
+        "open_app: {'app': 'notepad'}",
+        "open_app: {'app': 'word'}",
+        "open_app: {'app': 'youtube'}",
+        "open_app: {'app': 'whatsapp'}",
+        "open_app: {'app': 'calculator'}"
+      ],
+      "end_time": "2026-04-16T23:26:26.028707"
+    },
+    {
+      "date": "2026-04-16",
+      "start_time": "2026-04-16T23:28:22.838507",
+      "tasks": [],
+      "end_time": "2026-04-16T23:28:39.774026"
+    },
+    {
+      "date": "2026-04-16",
+      "start_time": "2026-04-16T23:29:53.285903",
+      "tasks": [
+        "open_app: {'app': 'youtube'}"
+      ],
+      "end_time": "2026-04-16T23:31:05.035694"
+    },
+    {
+      "date": "2026-04-16",
+      "start_time": "2026-04-16T23:35:15.063557",
+      "tasks": [],
+      "end_time": "2026-04-16T23:36:23.921717"
+    },
+    {
+      "date": "2026-04-16",
+      "start_time": "2026-04-16T23:36:59.289024",
+      "tasks": [],
+      "end_time": "2026-04-16T23:37:17.678617"
+    },
+    {
+      "date": "2026-04-16",
+      "start_time": "2026-04-16T23:38:36.971475",
+      "tasks": [],
+      "end_time": "2026-04-16T23:39:29.241665"
+    },
+    {
+      "date": "2026-04-16",
+      "start_time": "2026-04-16T23:42:59.259339",
+      "tasks": [
+        "open_app: {'app': 'notepad'}",
+        "open_app: {'app': 'youtube'}"
+      ],
+      "end_time": "2026-04-16T23:43:46.302585"
+    },
+    {
+      "date": "2026-04-16",
+      "start_time": "2026-04-16T23:46:08.174478",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-16",
+      "start_time": "2026-04-16T23:49:30.540834",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-16",
+      "start_time": "2026-04-16T23:55:56.857855",
+      "tasks": [
+        "open_app: {'app': 'youtube'}",
+        "open_app: {'app': 'notepad'}",
+        "open_app: {'app': 'excel'}"
+      ]
+    },
+    {
+      "date": "2026-04-16",
+      "start_time": "2026-04-16T23:58:01.045751",
+      "tasks": [
+        "open_app: {'app': 'youtube'}",
+        "open_app: {'app': 'notepad'}"
+      ]
+    },
+    {
+      "date": "2026-04-17",
+      "start_time": "2026-04-17T00:09:22.030373",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-17",
+      "start_time": "2026-04-17T00:11:22.102045",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-17",
+      "start_time": "2026-04-17T00:14:15.803876",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-17",
+      "start_time": "2026-04-17T00:17:21.746313",
+      "tasks": [],
+      "end_time": "2026-04-17T00:20:45.315145"
+    },
+    {
+      "date": "2026-04-17",
+      "start_time": "2026-04-17T00:25:37.210606",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-17",
+      "start_time": "2026-04-17T00:28:48.051939",
+      "tasks": [],
+      "end_time": "2026-04-17T00:28:55.651459"
+    },
+    {
+      "date": "2026-04-17",
+      "start_time": "2026-04-17T00:32:02.453161",
+      "tasks": [],
+      "end_time": "2026-04-17T00:32:15.933067"
+    },
+    {
+      "date": "2026-04-17",
+      "start_time": "2026-04-17T00:34:10.895036",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-17",
+      "start_time": "2026-04-17T00:49:28.995952",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-17",
+      "start_time": "2026-04-17T00:56:01.221733",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-17",
+      "start_time": "2026-04-17T01:31:33.958981",
+      "tasks": [],
+      "end_time": "2026-04-17T01:32:55.274172"
+    },
+    {
+      "date": "2026-04-17",
+      "start_time": "2026-04-17T15:02:36.883551",
+      "tasks": [
+        "open_app: {'app': 'youtube'}",
+        "open_app: {'app': 'notepad'}",
+        "open_app: {'app': 'whatsapp'}"
+      ]
+    },
+    {
+      "date": "2026-04-17",
+      "start_time": "2026-04-17T15:09:56.141297",
+      "tasks": [
+        "open_app: {'app': 'google'}",
+        "open_app: {'app': 'whatsapp'}",
+        "open_app: {'app': 'youtube'}",
+        "open_app: {'app': 'facebook'}",
+        "open_app: {'app': 'instagram'}",
+        "open_app: {'app': 'notepad'}",
+        "open_app: {'app': 'excel'}",
+        "open_app: {'app': 'microsoft_word'}",
+        "open_app: {'app': 'browser'}"
+      ],
+      "end_time": "2026-04-17T15:11:53.848851"
+    },
+    {
+      "date": "2026-04-17",
+      "start_time": "2026-04-17T15:18:22.468874",
+      "tasks": [
+        "open_app: {'app': 'youtube'}",
+        "open_app: {'app': 'word'}",
+        "open_app: {'app': 'excel'}",
+        "open_app: {'app': 'calculator'}",
+        "open_app: {'app': 'vscode'}",
+        "open_app: {'app': 'edge'}",
+        "close_app: {'app': 'all'}",
+        "close_app: {'app': 'all'}"
+      ]
+    },
+    {
+      "date": "2026-04-17",
+      "start_time": "2026-04-17T15:22:08.233307",
+      "tasks": [
+        "open_app: {'app': 'vscode'}",
+        "open_app: {'app': 'excel'}",
+        "close_app: {'app': 'excel'}",
+        "close_app: {'app': 'vscode'}",
+        "open_app: {'app': 'youtube'}",
+        "open_app: {'app': 'calculator'}",
+        "open_app: {'app': 'word'}",
+        "close_app: {'app': 'all'}",
+        "close_app: {'app': 'calculator'}"
+      ],
+      "end_time": "2026-04-17T15:24:05.425632"
+    },
+    {
+      "date": "2026-04-17",
+      "start_time": "2026-04-17T16:00:25.814867",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-17",
+      "start_time": "2026-04-17T16:02:34.855197",
+      "tasks": [
+        "open_app: {'app': 'youtube'}",
+        "close_app: {'app': 'all'}"
+      ]
+    },
+    {
+      "date": "2026-04-17",
+      "start_time": "2026-04-17T16:05:49.469830",
+      "tasks": [
+        "open_app: {'app': 'chrome'}",
+        "close_app: {'app': 'chrome'}",
+        "close_app: {'app': 'all'}"
+      ]
+    },
+    {
+      "date": "2026-04-17",
+      "start_time": "2026-04-17T16:12:02.922232",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-17",
+      "start_time": "2026-04-17T16:25:36.851754",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-17",
+      "start_time": "2026-04-17T16:27:08.315415",
+      "tasks": [],
+      "end_time": "2026-04-17T16:27:22.638036"
+    },
+    {
+      "date": "2026-04-17",
+      "start_time": "2026-04-17T16:27:41.313035",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-17",
+      "start_time": "2026-04-17T16:37:38.393238",
+      "tasks": [
+        "open_app: {'app': 'youtube'}",
+        "close_app: {'app': 'chrome'}"
+      ],
+      "end_time": "2026-04-17T16:38:24.600765"
+    },
+    {
+      "date": "2026-04-17",
+      "start_time": "2026-04-17T23:09:20.342432",
+      "tasks": [
+        "close_app: {'app': 'all'}"
+      ],
+      "end_time": "2026-04-17T23:10:15.980261"
+    },
+    {
+      "date": "2026-04-17",
+      "start_time": "2026-04-17T23:15:32.313228",
+      "tasks": [
+        "open_app: {'app': 'chrome'}",
+        "open_app: {'app': 'youtube'}"
+      ]
+    },
+    {
+      "date": "2026-04-17",
+      "start_time": "2026-04-17T23:28:46.334576",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-17",
+      "start_time": "2026-04-17T23:32:16.827104",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-17",
+      "start_time": "2026-04-17T23:35:46.308290",
+      "tasks": [
+        "open_app: {'app': 'youtube'}",
+        "close_app: {'app': 'chrome'}",
+        "close_app: {'app': 'all'}"
+      ]
+    },
+    {
+      "date": "2026-04-17",
+      "start_time": "2026-04-17T23:40:33.532999",
+      "tasks": [
+        "open_app: {'app': 'word'}",
+        "close_app: {'app': 'all'}"
+      ]
+    },
+    {
+      "date": "2026-04-18",
+      "start_time": "2026-04-18T00:10:19.356050",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-18",
+      "start_time": "2026-04-18T00:14:13.764676",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-18",
+      "start_time": "2026-04-18T00:21:56.216210",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-18",
+      "start_time": "2026-04-18T00:25:56.037882",
+      "tasks": [
+        "open_app: {'app': 'youtube'}",
+        "open_app: {'app': 'youtube per gana chala do'}",
+        "open_app: {'app': 'spotify'}"
+      ]
+    },
+    {
+      "date": "2026-04-18",
+      "start_time": "2026-04-18T00:31:55.228936",
+      "tasks": [
+        "open_app: {'app': 'youtube'}",
+        "close_app: {'app': 'youtube'}"
+      ]
+    },
+    {
+      "date": "2026-04-18",
+      "start_time": "2026-04-18T00:36:04.124910",
+      "tasks": [
+        "open_app: {'app': 'youtube'}",
+        "close_app: {'app': 'youtube'}"
+      ],
+      "end_time": "2026-04-18T00:40:28.683428"
+    },
+    {
+      "date": "2026-04-18",
+      "start_time": "2026-04-18T00:45:19.309401",
+      "tasks": [],
+      "end_time": "2026-04-18T00:47:21.679118"
+    },
+    {
+      "date": "2026-04-18",
+      "start_time": "2026-04-18T00:57:17.346905",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-18",
+      "start_time": "2026-04-18T01:02:30.052545",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-18",
+      "start_time": "2026-04-18T01:05:36.157218",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-18",
+      "start_time": "2026-04-18T01:07:29.929278",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-18",
+      "start_time": "2026-04-18T01:11:40.545439",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-18",
+      "start_time": "2026-04-18T01:19:10.356421",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-18",
+      "start_time": "2026-04-18T01:30:47.501459",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-18",
+      "start_time": "2026-04-18T01:33:53.088808",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-18",
+      "start_time": "2026-04-18T01:36:11.281373",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-18",
+      "start_time": "2026-04-18T01:48:34.967454",
+      "tasks": [],
+      "end_time": "2026-04-18T01:51:06.100241"
+    },
+    {
+      "date": "2026-04-18",
+      "start_time": "2026-04-18T01:52:31.016048",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-18",
+      "start_time": "2026-04-18T01:56:44.864141",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-18",
+      "start_time": "2026-04-18T02:00:23.785816",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-18",
+      "start_time": "2026-04-18T11:07:43.301359",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-18",
+      "start_time": "2026-04-18T21:43:55.778482",
+      "tasks": [],
+      "end_time": "2026-04-18T21:45:23.817290"
+    },
+    {
+      "date": "2026-04-19",
+      "start_time": "2026-04-19T14:34:13.771407",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-19",
+      "start_time": "2026-04-19T14:36:20.535508",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-19",
+      "start_time": "2026-04-19T14:39:15.791499",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-19",
+      "start_time": "2026-04-19T15:43:47.416710",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-19",
+      "start_time": "2026-04-19T15:45:12.832656",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-19",
+      "start_time": "2026-04-19T15:49:06.573616",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-19",
+      "start_time": "2026-04-19T15:56:43.067005",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-19",
+      "start_time": "2026-04-19T15:59:49.504362",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-19",
+      "start_time": "2026-04-19T16:02:20.933199",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-19",
+      "start_time": "2026-04-19T16:04:40.464671",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-19",
+      "start_time": "2026-04-19T16:06:46.316447",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-19",
+      "start_time": "2026-04-19T16:09:17.384839",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-19",
+      "start_time": "2026-04-19T16:19:13.524062",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-19",
+      "start_time": "2026-04-19T16:25:57.604961",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-19",
+      "start_time": "2026-04-19T16:27:22.583209",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-19",
+      "start_time": "2026-04-19T16:33:41.158325",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-19",
+      "start_time": "2026-04-19T16:37:55.761782",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-19",
+      "start_time": "2026-04-19T16:40:43.164088",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-19",
+      "start_time": "2026-04-19T16:42:04.063026",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-19",
+      "start_time": "2026-04-19T16:45:42.714425",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-19",
+      "start_time": "2026-04-19T16:49:12.917477",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-19",
+      "start_time": "2026-04-19T19:09:06.673553",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-19",
+      "start_time": "2026-04-19T19:14:51.744751",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-19",
+      "start_time": "2026-04-19T19:25:11.877071",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-19",
+      "start_time": "2026-04-19T19:37:17.725628",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-19",
+      "start_time": "2026-04-19T19:41:09.123847",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-19",
+      "start_time": "2026-04-19T19:43:55.021575",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-19",
+      "start_time": "2026-04-19T19:48:24.177701",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-19",
+      "start_time": "2026-04-19T19:54:39.715568",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-19",
+      "start_time": "2026-04-19T20:00:12.115609",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-19",
+      "start_time": "2026-04-19T20:06:52.947084",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-19",
+      "start_time": "2026-04-19T20:17:58.754420",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-19",
+      "start_time": "2026-04-19T20:21:08.064539",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-19",
+      "start_time": "2026-04-19T20:26:34.440271",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-19",
+      "start_time": "2026-04-19T20:31:10.319486",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-19",
+      "start_time": "2026-04-19T20:35:37.963618",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-19",
+      "start_time": "2026-04-19T20:37:51.414097",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-19",
+      "start_time": "2026-04-19T21:59:38.552621",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-19",
+      "start_time": "2026-04-19T23:00:47.169490",
+      "tasks": []
+    },
+    {
+      "date": "2026-04-19",
+      "start_time": "2026-04-19T23:09:51.707567",
+      "tasks": []
+    }
+  ],
+  "mood": {
+    "2026-04-16": "good"
+  },
+  "tasks": [
+    {
+      "date": "2026-04-16",
+      "task": "open_app: {'app': 'chrome'}"
+    },
+    {
+      "date": "2026-04-16",
+      "task": "open_app: {'app': 'youtube'}"
+    },
+    {
+      "date": "2026-04-16",
+      "task": "open_app: {'app': 'chrome'}"
+    },
+    {
+      "date": "2026-04-16",
+      "task": "open_app: {'app': 'whatsapp'}"
+    },
+    {
+      "date": "2026-04-16",
+      "task": "open_app: {'app': 'youtube'}"
+    },
+    {
+      "date": "2026-04-16",
+      "task": "open_app: {'app': 'whatsapp'}"
+    },
+    {
+      "date": "2026-04-16",
+      "task": "open_app: {'app': 'notepad'}"
+    },
+    {
+      "date": "2026-04-16",
+      "task": "open_app: {'app': 'excel'}"
+    },
+    {
+      "date": "2026-04-16",
+      "task": "open_app: {'app': 'youtube'}"
+    },
+    {
+      "date": "2026-04-16",
+      "task": "open_app: {'app': 'notepad'}"
+    },
+    {
+      "date": "2026-04-16",
+      "task": "open_app: {'app': 'notepad'}"
+    },
+    {
+      "date": "2026-04-16",
+      "task": "open_app: {'app': 'notepad'}"
+    },
+    {
+      "date": "2026-04-16",
+      "task": "open_app: {'app': 'notepad'}"
+    },
+    {
+      "date": "2026-04-16",
+      "task": "open_app: {'app': 'notepad'}"
+    },
+    {
+      "date": "2026-04-16",
+      "task": "open_app: {'app': 'notepad'}"
+    },
+    {
+      "date": "2026-04-16",
+      "task": "open_app: {'app': 'excel'}"
+    },
+    {
+      "date": "2026-04-16",
+      "task": "open_app: {'app': 'explorer'}"
+    },
+    {
+      "date": "2026-04-16",
+      "task": "open_app: {'app': 'notepad'}"
+    },
+    {
+      "date": "2026-04-16",
+      "task": "open_app: {'app': 'word'}"
+    },
+    {
+      "date": "2026-04-16",
+      "task": "open_app: {'app': 'youtube'}"
+    },
+    {
+      "date": "2026-04-16",
+      "task": "open_app: {'app': 'whatsapp'}"
+    },
+    {
+      "date": "2026-04-16",
+      "task": "open_app: {'app': 'calculator'}"
+    },
+    {
+      "date": "2026-04-16",
+      "task": "open_app: {'app': 'youtube'}"
+    },
+    {
+      "date": "2026-04-16",
+      "task": "open_app: {'app': 'notepad'}"
+    },
+    {
+      "date": "2026-04-16",
+      "task": "open_app: {'app': 'youtube'}"
+    },
+    {
+      "date": "2026-04-16",
+      "task": "open_app: {'app': 'youtube'}"
+    },
+    {
+      "date": "2026-04-16",
+      "task": "open_app: {'app': 'notepad'}"
+    },
+    {
+      "date": "2026-04-16",
+      "task": "open_app: {'app': 'excel'}"
+    },
+    {
+      "date": "2026-04-16",
+      "task": "open_app: {'app': 'youtube'}"
+    },
+    {
+      "date": "2026-04-16",
+      "task": "open_app: {'app': 'notepad'}"
+    },
+    {
+      "date": "2026-04-17",
+      "task": "open_app: {'app': 'youtube'}"
+    },
+    {
+      "date": "2026-04-17",
+      "task": "open_app: {'app': 'notepad'}"
+    },
+    {
+      "date": "2026-04-17",
+      "task": "open_app: {'app': 'whatsapp'}"
+    },
+    {
+      "date": "2026-04-17",
+      "task": "open_app: {'app': 'google'}"
+    },
+    {
+      "date": "2026-04-17",
+      "task": "open_app: {'app': 'whatsapp'}"
+    },
+    {
+      "date": "2026-04-17",
+      "task": "open_app: {'app': 'youtube'}"
+    },
+    {
+      "date": "2026-04-17",
+      "task": "open_app: {'app': 'facebook'}"
+    },
+    {
+      "date": "2026-04-17",
+      "task": "open_app: {'app': 'instagram'}"
+    },
+    {
+      "date": "2026-04-17",
+      "task": "open_app: {'app': 'notepad'}"
+    },
+    {
+      "date": "2026-04-17",
+      "task": "open_app: {'app': 'excel'}"
+    },
+    {
+      "date": "2026-04-17",
+      "task": "open_app: {'app': 'microsoft_word'}"
+    },
+    {
+      "date": "2026-04-17",
+      "task": "open_app: {'app': 'browser'}"
+    },
+    {
+      "date": "2026-04-17",
+      "task": "open_app: {'app': 'youtube'}"
+    },
+    {
+      "date": "2026-04-17",
+      "task": "open_app: {'app': 'word'}"
+    },
+    {
+      "date": "2026-04-17",
+      "task": "open_app: {'app': 'excel'}"
+    },
+    {
+      "date": "2026-04-17",
+      "task": "open_app: {'app': 'calculator'}"
+    },
+    {
+      "date": "2026-04-17",
+      "task": "open_app: {'app': 'vscode'}"
+    },
+    {
+      "date": "2026-04-17",
+      "task": "open_app: {'app': 'edge'}"
+    },
+    {
+      "date": "2026-04-17",
+      "task": "close_app: {'app': 'all'}"
+    },
+    {
+      "date": "2026-04-17",
+      "task": "close_app: {'app': 'all'}"
+    },
+    {
+      "date": "2026-04-17",
+      "task": "open_app: {'app': 'vscode'}"
+    },
+    {
+      "date": "2026-04-17",
+      "task": "open_app: {'app': 'excel'}"
+    },
+    {
+      "date": "2026-04-17",
+      "task": "close_app: {'app': 'excel'}"
+    },
+    {
+      "date": "2026-04-17",
+      "task": "close_app: {'app': 'vscode'}"
+    },
+    {
+      "date": "2026-04-17",
+      "task": "open_app: {'app': 'youtube'}"
+    },
+    {
+      "date": "2026-04-17",
+      "task": "open_app: {'app': 'calculator'}"
+    },
+    {
+      "date": "2026-04-17",
+      "task": "open_app: {'app': 'word'}"
+    },
+    {
+      "date": "2026-04-17",
+      "task": "close_app: {'app': 'all'}"
+    },
+    {
+      "date": "2026-04-17",
+      "task": "close_app: {'app': 'calculator'}"
+    },
+    {
+      "date": "2026-04-17",
+      "task": "open_app: {'app': 'youtube'}"
+    },
+    {
+      "date": "2026-04-17",
+      "task": "close_app: {'app': 'all'}"
+    },
+    {
+      "date": "2026-04-17",
+      "task": "open_app: {'app': 'chrome'}"
+    },
+    {
+      "date": "2026-04-17",
+      "task": "close_app: {'app': 'chrome'}"
+    },
+    {
+      "date": "2026-04-17",
+      "task": "close_app: {'app': 'all'}"
+    },
+    {
+      "date": "2026-04-17",
+      "task": "open_app: {'app': 'youtube'}"
+    },
+    {
+      "date": "2026-04-17",
+      "task": "close_app: {'app': 'chrome'}"
+    },
+    {
+      "date": "2026-04-17",
+      "task": "close_app: {'app': 'all'}"
+    },
+    {
+      "date": "2026-04-17",
+      "task": "open_app: {'app': 'chrome'}"
+    },
+    {
+      "date": "2026-04-17",
+      "task": "open_app: {'app': 'youtube'}"
+    },
+    {
+      "date": "2026-04-17",
+      "task": "open_app: {'app': 'youtube'}"
+    },
+    {
+      "date": "2026-04-17",
+      "task": "close_app: {'app': 'chrome'}"
+    },
+    {
+      "date": "2026-04-17",
+      "task": "close_app: {'app': 'all'}"
+    },
+    {
+      "date": "2026-04-17",
+      "task": "open_app: {'app': 'word'}"
+    },
+    {
+      "date": "2026-04-17",
+      "task": "close_app: {'app': 'all'}"
+    },
+    {
+      "date": "2026-04-18",
+      "task": "open_app: {'app': 'youtube'}"
+    },
+    {
+      "date": "2026-04-18",
+      "task": "open_app: {'app': 'youtube per gana chala do'}"
+    },
+    {
+      "date": "2026-04-18",
+      "task": "open_app: {'app': 'spotify'}"
+    },
+    {
+      "date": "2026-04-18",
+      "task": "open_app: {'app': 'youtube'}"
+    },
+    {
+      "date": "2026-04-18",
+      "task": "close_app: {'app': 'youtube'}"
+    },
+    {
+      "date": "2026-04-18",
+      "task": "open_app: {'app': 'youtube'}"
+    },
+    {
+      "date": "2026-04-18",
+      "task": "close_app: {'app': 'youtube'}"
+    }
+  ]
+}
