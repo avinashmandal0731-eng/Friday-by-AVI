@@ -44,7 +44,7 @@ This project was built as part of my AI/Engineering portfolio, demonstrating rea
 ## ✨ Features
 
 - 🎙️ **Wake Word Detection** — Activates only when you say the trigger word (hands-free)
-- 🗣️ **Bilingual Support** — Understands and responds in both Hindi and English
+- 🗣️ **Language Support** — Understands and responds in  English
 - 🤖 **LLM-Powered Brain** — Uses Groq API (LLaMA 3.3-70B) for intelligent responses
 - 🖥️ **PC Control** — Open apps, control volume, take screenshots, manage windows via voice
 - 📱 **Phone Control** — Basic phone interaction support
